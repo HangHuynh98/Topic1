@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Topic1</string>
+    <string name="email_phone">Email or Phone</string>
+    <string name="pass">Password </string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up for Facebook</string>
+
+</resources>
